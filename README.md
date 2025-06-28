@@ -35,6 +35,22 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+
+📊 [Análise de Vendas com Python](https://github.com/ruysdael/analise-vendas)  
+Exploração de dados de vendas com Pandas, visualizações com Matplotlib e Seaborn.
+
+📈 [Painel Interativo com Plotly](https://github.com/ruysdael/dashboard-plotly)  
+Dashboard responsivo com dados fictícios de clientes e vendas.
+
+🌐 [Meu Portfólio Pessoal](https://github.com/ruysdael/portfolio)  
+Página pessoal feita com HTML, CSS e JS para apresentar projetos e contatos.
+
+📂 [Estudos de Ciência de Dados](https://github.com/ruysdael/ciencia-dados)  
+Repositório onde organizo anotações, exercícios e mini projetos com Python e SQL.
+
+---
+
 ## 📈 GitHub Stats:
 
 <p align="center">
